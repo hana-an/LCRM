@@ -15,11 +15,13 @@ The code in this repository requires Python 3.6 or later and the following packa
 * Matplotlib
 * TensorBoard (Profiler plugin)
 
+Required packages are given at the beginning of each notebook.
+
 ## Datasets
 * EMNIST used in LCRM-VGG
 * CIFAR from tensorflow dataset used in LCRM-AlexNet
 * Kaggle datascience Bowl dataset used in LCRM-UNet
-Required packages are given at the beginning of each notebook.
+
 
 ## Usage
 To use the optimization method, open the appropriate Python notebook for the network you want to optimize (e.g., LCRMVGG9.ipynb or LCRMUnet.ipynb). Run the notebook cells in order to train the model with the optimization method. We have included both the parent model and the LCRM-generated model for comparison.
