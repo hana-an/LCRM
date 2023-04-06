@@ -17,7 +17,7 @@ The code in this repository requires Python 3.6 or later and the following packa
 
 ## Datasets
 * EMNIST used in LCRM-VGG
-*CIFAR from tensorflow dataset used in LCRM-AlexNet
+* CIFAR from tensorflow dataset used in LCRM-AlexNet
 * Kaggle datascience Bowl dataset used in LCRM-UNet
 Required packages are given at the beginning of each notebook.
 
