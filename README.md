@@ -1,5 +1,5 @@
 # LCRM: Layer-wise Complexity Reduction Method for CNN Model Optimization on End Devices
-This repository contains Python notebooks with code for optimizing AlexNet, VGG, and U-Net neural networks using the LCRM optimization method based on our research work "LCRM: Layer-wise Complexity Reduction Method for CNN Model Optimization on End Devices, IEEE Access, 2023 (Under review)". We also include the source code for the ablation study to demonstrate the effectiveness of the optimization method and an appendix section with additional code examples.
+This repository contains Python notebooks with code for optimizing AlexNet, VGG, and U-Net neural networks using the LCRM optimization method based on our research work "LCRM: Layer-wise Complexity Reduction Method for CNN Model Optimization on End Devices, IEEE Access, 2023 ". We also include the source code for the ablation study to demonstrate the effectiveness of the optimization method and an appendix section with additional code examples.
 
 ## Getting Started
 
